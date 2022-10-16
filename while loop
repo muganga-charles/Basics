@@ -1,5 +1,5 @@
 choice=1
-while choice == 1:# loops when
+while choice == 1:# loops when one is entered
     reg_number=input("enter registration number : ")
     names=input("enter the name : ")
     age=int(input("enter your age :"))
