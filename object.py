@@ -31,3 +31,4 @@ person2.start_dancing()
 # print(person1.first_name)
 # print(person1.last_name)
 # print(person1.age)
+# Try uncommenting the comments
