@@ -1,8 +1,11 @@
-choice=1
-while choice == 1:# loops when one is entered
+choice=5
+while choice == 5:# loops when one is entered
+    choice=input("Please enter choice:")
     reg_number=input("enter registration number : ")
     names=input("enter the name : ")
     age=int(input("enter your age :"))
-    print("REG NAME",reg_number,"\nNAME :",names,"\nAGE : ",age)
-    choice=int(input("enter 1 to continue or any other integer to stop. "))
-
+    if choice == 1:
+      print("REG NAME",reg_number,"\nNAME :",names,"\nAGE : ",age)
+    # choice=int(input("enter 1 to continue or any other integer to stop. "))
+else:
+     print("Thank you")   
