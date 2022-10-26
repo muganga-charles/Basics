@@ -1,4 +1,5 @@
 class Person:
+#     The init method is only used in classes and it lets the class initialize the  object's attributes
     def __init__(self, our_first_name, our_last_name, our_age):
         #    Instance Variables or Properties or Attribute
         self.first_name = our_first_name
@@ -8,6 +9,7 @@ class Person:
     # Instance method
     def start_dancing(self):
         print(f"{self.first_name} is dancing 💃💃💃💃💃💃💃💃💃💃")
+        
 
     def __str__(self):
         return f"This person's name is {self.first_name} {self.last_name} and the age is {self.age}"
