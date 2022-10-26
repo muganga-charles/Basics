@@ -15,6 +15,7 @@ class Item:
    
 #    def calculate_discount(self,x,y):
 #        return x*y
+# this command  is later called to calculate the discounts of the chosen values
    
        
 phone = Item()
@@ -24,8 +25,10 @@ phone.price = 2000
 earphones =Item()
 earphones.price = 5000
 
+
 # print(earphones.calculate_discount(0.2,earphones.price))
 # print(phone.calculate_discount(0.8,phone.price))
+# 
 
 print(phone.name)
 print(phone.price)
