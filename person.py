@@ -13,10 +13,16 @@ def main():
    
 #   This is an inner function  used by the ser to input values   
 def get_person():
+#    prompts user to enter name 
     name= input("What is your name?")
-    age =int(input("'What is your name?"))
+   
+#    prompts user to enter age
+    age =int(input("'What is your age?"))
+   
+#    prompts user to enter country
     country =input("What is your country?")
+#    prompts user to enter city
     city = input("Which city are you from?")
     return name,country,age,city
-
+# and the return helps display the mentioned values on the console
 main()
