@@ -1,2 +1,2 @@
 # Basics of python
-Repository containing d
+Repository conta
