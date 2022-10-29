@@ -1,2 +1,2 @@
 # Basics of python
-Repository containg 
+Repository containing 
