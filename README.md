@@ -1,2 +1,2 @@
 # Basics of python
-These basics
+These basis ii=ncmldd
