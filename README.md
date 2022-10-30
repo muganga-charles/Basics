@@ -1,2 +1,1 @@
 # Basics of python
-T
