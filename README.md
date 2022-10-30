@@ -1,2 +1,2 @@
 # Basics of python
-These basis ii=ncml
+These basis ii=ncm
