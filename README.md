@@ -1,2 +1,2 @@
 # Basics of python
-These bas
+These b
