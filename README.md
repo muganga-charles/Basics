@@ -1,2 +1,2 @@
 # Basics of python
-These basis ii=
+These basis ii
