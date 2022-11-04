@@ -9,3 +9,11 @@ while choice == 5:# loops when one is entered
     # choice=int(input("enter 1 to continue or any other integer to stop. "))
 else:
      print("Thank you")   
+ 
+
+
+i=0
+while i<=5:
+i+=1
+if i%2==0:
+    break
