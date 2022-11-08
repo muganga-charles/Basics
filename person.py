@@ -8,8 +8,8 @@
 def main():
    
    
-   name,country = get_person()
-   print(f"Name is{name} country{country}")
+   name,country,city = get_person()
+   print(f"Name is{name} country{country} city{city}")
    
 #   This is an inner function  used by the ser to input values   
 def get_person():
