@@ -18,6 +18,8 @@ def get_person():
    
 #    prompts user to enter age
     age =int(input("'What is your age?"))
+#    prompts user to enter nationality
+    nationality =input("what is your nationality?")
    
 #    prompts user to enter country
     country =input("What is your country?")
