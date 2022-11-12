@@ -1,5 +1,5 @@
-choice=5
-while choice == 5:# loops when one is entered
+choice=4
+while choice == 4:# loops when one is entered
     choice=input("Please enter choice:")
     reg_number=input("enter registration number : ")
     names=input("enter the name : ")
@@ -13,7 +13,7 @@ else:
 
 
 i=0
-while i<=5:
+while i<=4:
 i+=1
 if i%2==0:
     break
