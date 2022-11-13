@@ -1,0 +1,19 @@
+choice=4
+while choice == 4:# loops when one is entered
+    choice=input("Please enter choice:")
+    reg_number=input("enter registration number : ")
+    names=input("enter the name : ")
+    age=int(input("enter your age :"))
+    if choice == 1:
+      print("REG NAME",reg_number,"\nNAME :",names,"\nAGE : ",age)
+    # choice=int(input("enter 1 to continue or any other integer to stop. "))
+else:
+     print("Thank you")   
+ 
+
+
+i=0
+while i<=4:
+i+=1
+if i%2==0:
+    break
